@@ -84,3 +84,6 @@ Additionally, the dashboard includes interactive slicers for:
 
 This dashboard equips restaurant owners and managers with a robust visual tool to monitor and optimize daily operations, leading to more efficient decision-making and improved customer satisfaction.
 
+
+Project 3
+
