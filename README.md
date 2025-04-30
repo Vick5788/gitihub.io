@@ -73,3 +73,41 @@ Additionally, the dashboard includes interactive slicers and timeline for:
 This dashboard serves as a crucial tool for the cookies company’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
 
  
+**Project 2**
+
+**Title:** [Restaurant Sales Performance Dashboard](https://github.com/Vick5788/gitihub.io/blob/main/DASHBOARD%20RESTUARANT.xlsx)
+
+**Tools Used:** Microsoft excel, Pivot table, Pivot Charts, Conditional Formating, Slicers
+
+**Project Description:** This project involved analyzing a restaurant's sales data to uncover performance trends across menu items, order types, and times of day. The objective was to provide the management team with a data-driven dashboard that supports operational decisions, identifies best-selling products, and helps in optimizing the restaurant’s operations and customer service.
+
+The dashboard includes the following features:
+
+*Sales by Category and Menu Item:* A visual breakdown of sales performance across different food categories (e.g., beverages, snacks, desserts) and individual items, identifying which items generate the most revenue.
+
+*Total Revenue per Day:* Tracks daily revenue trends, helping to spot patterns related to weekdays, weekends, and holidays.
+
+*Orders by Hour:* Displays the number of orders across different hours of the day, giving insight into peak business hours and periods of low activity.
+
+*Top-Selling Products:* Ranks menu items based on total units sold and total revenue, making it easier to identify popular items for promotions or stock planning.
+
+Additionally, the dashboard includes interactive slicers for:
+
+Date: Allows filtering of data by specific dates or time periods.
+
+Order Type: Enables analysis by dine-in, takeaway, or delivery to compare performance across service modes.
+
+*Product Category:* Helps drill down into specific types of menu items for deeper insights.
+
+**Key Findings:**
+
+*Peak Hours Insight:* Identified the busiest hours in the day, enabling better staff allocation and kitchen resource planning.
+
+*Menu Optimization:* Highlighted underperforming items and top-sellers, informing future menu adjustments and promotional campaigns.
+
+*Order Trends by Type:* Revealed that certain menu items performed better in delivery vs. dine-in, aiding targeted service adjustments.
+
+*Daily Revenue Fluctuations:* Helped understand weekday vs. weekend sales performance for strategic staffing and marketing.
+
+This dashboard equips restaurant owners and managers with a robust visual tool to monitor and optimize daily operations, leading to more efficient decision-making and improved customer satisfaction.
+
