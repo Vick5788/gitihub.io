@@ -86,10 +86,10 @@ This dashboard equips restaurant owners and managers with a robust visual tool t
 
 **Project 3**
 
-**Title:** pizza sales analysis project
+**Title:** Pizza sales analysis project
 
 **SQL Code:**
-![Pizza Data] (https://github.com/Vick5788/gitihub.io/blob/main/Pizza.SQL)
+[Pizza Data] (https://github.com/Vick5788/gitihub.io/blob/main/Pizza.SQL)
 
 **SQL Skills Used:**
 Data Retrieval (SELECT): Queried and extracted specific information such as pizza names, order details, and dates from the sales dataset.
