@@ -86,7 +86,7 @@ This dashboard equips restaurant owners and managers with a robust visual tool t
 
 **Project 3**
 
-**Title:**
+**Title:** pizza sales analysis project
 
 **SQL Code:**
 ![Pizza Data] (https://github.com/Vick5788/gitihub.io/blob/main/Pizza.SQL)
