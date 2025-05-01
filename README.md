@@ -89,7 +89,7 @@ This dashboard equips restaurant owners and managers with a robust visual tool t
 **Title:**
 
 **SQL Code:**
-![Pizza Data] (Pizza.SQL)
+![Pizza Data] (https://github.com/Vick5788/gitihub.io/blob/main/Pizza.SQL)
 
 **SQL Skills Used:**
 
