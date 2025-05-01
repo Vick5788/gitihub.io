@@ -92,14 +92,32 @@ This dashboard equips restaurant owners and managers with a robust visual tool t
 ![Pizza Data] (https://github.com/Vick5788/gitihub.io/blob/main/Pizza.SQL)
 
 **SQL Skills Used:**
+Data Retrieval (SELECT): Queried and extracted specific information such as pizza names, order details, and dates from the sales dataset.
+
+Data Aggregation (SUM, COUNT): Calculated total revenue, total pizzas sold, and the number of unique orders to understand sales performance.
+
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied conditional filters to analyze pizza sales by category, date ranges, size, and price thresholds.
+
+Data Source Specification (FROM): Used the pizza_sales table as the primary data source for all analyses.
 
 **Project Description:**
+This project focuses on the analysis of a detailed pizza sales dataset to derive business insights using SQL. The primary objective is to extract and summarize key performance indicators such as revenue, order volume, and popular pizza choices.
+
+Data Exploration and Cleaning: Ensure consistency and integrity of the dataset, enabling accurate SQL analysis.
+
+Data Analysis Using SQL: Execute structured queries to analyze different aspects of the business including:
+
+Sales trends (e.g., revenue by month, pizza sizes sold)
+
+Customer preferences (e.g., top-selling pizzas, category-specific performance)
+
+Time-based insights (e.g., sales in specific months or seasons)
+
+Insight Extraction: Discover patterns in pizza sales such as high-performing items, underperforming categories, and seasonal buying behavior.
+
+Reporting: Generate query results that can be visualized in dashboards or reports for stakeholders to support data-driven decisions in marketing and inventory planning.
+
+By the end of the project, the dataset provides a reliable foundation for understanding business performance, helping stakeholders make informed operational and strategic choices.
 
 **Technology used:** SQL server
 
-
-
-Data Retrieval (SELECT): Queried and extracted specific information from the database.
-Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
-Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
-Data Source Specification (FROM): Specified the tables used as data sources for retrieval
