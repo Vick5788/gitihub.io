@@ -4,6 +4,8 @@
 
 **Tools Used:** Microsoft excel, Pivot table, Pivot Charts, Conditional Formating, Slicers
 
+**Dashboard Overview:**
+![Healthcare](Healthcare.png)
 
 **Project Description:** 
 This project focused on analyzing patient data and hospital service utilization to evaluate the performance of a healthcare provider. The goal was to present key metrics in a clear and interactive dashboard, supporting strategic planning in patient care, departmental workload, and healthcare outcomes.
@@ -37,9 +39,6 @@ Interactive filters available in the dashboard:
 *Outcome Tracking:* Helped highlight departments with strong or weak patient recovery rates, aiding performance reviews and audits.
 
 This dashboard serves as an essential tool for hospital administrators, giving them actionable insights to drive better resource planning, patient care strategies, and operational efficiency.
-
-**Dashboard Overview:**
-![Healthcare](Healthcare.png)
 
  
 **Project 2**
