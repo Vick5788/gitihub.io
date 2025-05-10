@@ -120,3 +120,48 @@ By the end of the project, the dataset provides a reliable foundation for unders
 
 **Technology used:** SQL server
 
+**Project 4**
+
+**Title:**
+Amazon Prime Video Content Analysis Dashboard
+
+**Tools Used:**
+Power BI
+Microsoft Bing Maps (for geographic data visualization)
+
+**Dashboard Overview:**
+![Amazon Prime Video Content Analysis Dashboard]
+
+**Project Description:**
+This dashboard provides a comprehensive analysis of the content available on Amazon Prime Video from 1920 to 2021. It explores the distribution and trends of titles based on genre, rating, release year, country of origin, and content type (TV Shows vs. Movies). The goal is to understand Prime Video’s content catalog and its evolution over time.
+
+**Key Findings:**
+
+Total of 9,655 titles analyzed, comprising 80.82% TV Shows and 19.18% Movies.
+
+Drama is the most common genre with 986 titles, followed by Comedy and hybrid genres like Drama, Suspense and Comedy, Drama.
+
+The most frequent ratings are 13+, 16+, and ALL, each with over 1,000 titles.
+
+There has been a significant rise in content production in recent years, especially post-2000, peaking in 2021.
+
+Content originates globally, with strong representation from North America, India, and Europe.
+
+A total of 5,771 directors contributed to the catalog, reflecting diversity in content creation.
+
+Dashboard Overview:
+The dashboard is structured into key visual sections:
+
+KPI cards at the top for totals (titles, genres, ratings, directors, date range).
+
+Bar charts show breakdowns by genre and rating.
+
+A world map visualizes content distribution by country.
+
+A donut chart displays the proportion of movies vs. TV shows.
+
+A line area chart tracks the number of titles released each year from 1920 to 2021.
+The design provides a clear, data-rich snapshot of Prime Video’s catalog and trends.
+
+
+
