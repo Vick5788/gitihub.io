@@ -123,7 +123,7 @@ By the end of the project, the dataset provides a reliable foundation for unders
 **Project 4**
 
 **Title:**
-[Amazon Prime Video Content Analysis Dashboard] ([Newportfolio.pbix](https://github.com/Vick5788/gitihub.io/blob/main/Newportfolio.pbix))
+[Amazon Prime Video Content Analysis Dashboard]([Newportfolio.pbix](https://github.com/Vick5788/gitihub.io/blob/main/Newportfolio.pbix))
 
 **Tools Used:**
 Power BI
