@@ -123,7 +123,7 @@ By the end of the project, the dataset provides a reliable foundation for unders
 **Project 4**
 
 **Title:**
-Amazon Prime Video Content Analysis Dashboard
+![Amazon Prime Video Content Analysis Dashboard] (Newportfolio.pbix)
 
 **Tools Used:**
 Power BI
