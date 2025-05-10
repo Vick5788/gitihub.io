@@ -130,7 +130,7 @@ Power BI
 Microsoft Bing Maps (for geographic data visualization)
 
 **Dashboard Overview:**
-![Amazon Prime Video Content Analysis Dashboard](Amazon 
+![Amazon Prime Video Content Analysis Dashboard](Amazon prime.png)
 
 **Project Description:**
 This dashboard provides a comprehensive analysis of the content available on Amazon Prime Video from 1920 to 2021. It explores the distribution and trends of titles based on genre, rating, release year, country of origin, and content type (TV Shows vs. Movies). The goal is to understand Prime Video’s content catalog and its evolution over time.
