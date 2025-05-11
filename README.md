@@ -172,7 +172,7 @@ Certainly! Here's a write-up in the same format for the **Airbnb Power BI Dashbo
 
 **Tools Used:** Power BI
 
-**Dashboard Overview:** Airbnb Listings Analysis Dashboard
+**Dashboard Overview:** [Airbnb Listings Analysis Dashboard](
 
 **Project Description:**
 This dashboard offers an in-depth visual analysis of Airbnb listings in New York City. It highlights booking trends, neighborhood-level performance, pricing structures, and host activity. The goal is to gain actionable insights into customer behavior, listing distribution, and revenue potential across different boroughs and room types.
