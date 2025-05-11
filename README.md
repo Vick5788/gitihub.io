@@ -163,5 +163,43 @@ A donut chart displays the proportion of movies vs. TV shows.
 A line area chart tracks the number of titles released each year from 1920 to 2021.
 The design provides a clear, data-rich snapshot of Prime Video’s catalog and trends.
 
+Certainly! Here's a write-up in the same format for the **Airbnb Power BI Dashboard** you provided:
+
+---
+
+**Project 5**
+**Title:** Airbnb Listings Analysis Dashboard
+
+**Tools Used:** Power BI
+
+**Dashboard Overview:** Airbnb Listings Analysis Dashboard
+
+**Project Description:**
+This dashboard offers an in-depth visual analysis of Airbnb listings in New York City. It highlights booking trends, neighborhood-level performance, pricing structures, and host activity. The goal is to gain actionable insights into customer behavior, listing distribution, and revenue potential across different boroughs and room types.
+
+**Key Findings:**
+
+* Over **1 million reviews** were analyzed, with an **average of 1.37 reviews per month** per listing.
+* **Manhattan** and **Brooklyn** dominate bookings with over 18K each, indicating high demand in central and popular areas.
+* **221 neighborhoods** and over **37,000 hosts** are represented in the dataset.
+* **2019** marked a spike in reviews, suggesting peak activity and platform usage during that year.
+* The **highest number of reviews** occurs in **June**, followed by a sharp decline post-summer.
+* **Michael** leads among top 10 hosts, with over **9.8K total reviews**, showing strong engagement or listing volume.
+* **Fort Wadsworth** and **Woodrow** are the most expensive neighborhoods on average, exceeding **\$500 per night**.
+* **Entire home/apartment** listings in Manhattan have the highest average price (\$249.31), while shared rooms remain the cheapest across all boroughs.
+* **Queens, Brooklyn, and Manhattan** together make up over **95% of all neighborhoods**, with Brooklyn slightly trailing Manhattan in total share.
+* **Manhattan** leads in review count across all room types, showing consistently high customer interaction.
+
+**Dashboard Overview:** ![Airbnb Listings Analysis Dashboard](
+The dashboard is structured into several core visual sections:
+
+**KPI Cards** for high-level stats (e.g., average reviews, total hosts, number of neighborhoods).
+**Bar charts** showing booking volume by neighborhood, host performance, and price comparisons.
+**Line and column charts** highlight temporal trends in reviews by year and month.
+**Donut chart** illustrates the share of neighborhoods by borough.
+**Tables** summarize average prices and reviews segmented by neighborhood group and room type.
+
+The cohesive design and clear segmentation make this dashboard a powerful tool for understanding Airbnb's operational footprint and user behavior across New York City.
+
 
 
