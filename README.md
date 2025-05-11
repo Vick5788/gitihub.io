@@ -190,7 +190,7 @@ This dashboard offers an in-depth visual analysis of Airbnb listings in New York
 * **Queens, Brooklyn, and Manhattan** together make up over **95% of all neighborhoods**, with Brooklyn slightly trailing Manhattan in total share.
 * **Manhattan** leads in review count across all room types, showing consistently high customer interaction.
 
-**Dashboard Overview:** ![Airbnb Listings Analysis Dashboard](AirBNBDashboardd.png)
+**Dashboard Overview:** ![Airbnb Listings Analysis Dashboard](AirBNBDashboarddd.png)
 The dashboard is structured into several core visual sections:
 
 **KPI Cards** for high-level stats (e.g., average reviews, total hosts, number of neighborhoods).
